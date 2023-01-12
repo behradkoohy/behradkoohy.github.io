@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I am Behrad'
+landing-title: 'Behrad Koohy, PhD Researcher, University of Southampton'
 description: null
 image: null
 author: null
