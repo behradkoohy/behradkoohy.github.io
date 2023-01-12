@@ -14,7 +14,7 @@ country: United Kingdom of Great Britain and Northern Island
 phone: (+44) 23 8059 5000
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
