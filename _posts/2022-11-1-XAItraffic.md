@@ -2,7 +2,7 @@
 layout: post
 title: Explainable AI (XAI) and Intelligent Traffic Systems
 description: The importance of understanding AI in ITS
-image: assets/images/pic01.jpg
+image: assets/images/pic02.jpg
 ---
 
 
