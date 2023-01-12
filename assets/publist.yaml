@@ -1,0 +1,17 @@
+- id: 2
+  authors: "Koohy, B., Stein, S., Gerding, E. and Manla, G."
+  title: "Reward Function Design in Multi-Agent Reinforcement Learning for Traffic Signal Control"
+  issued:
+    year: 2022
+  type: article-journal
+  link: "https://ceur-ws.org/Vol-3173/1.pdf"
+- id: 1
+  authors: "Koohy, H. and Koohy, B."
+  title: "A lesson from the ice bucket challenge: using social networks to publicize science"
+  container-title: Frontiers in Genetics
+  volume: "5"
+  page: "430"
+  type: article-journal
+  issued:
+    year: 2014
+  link: "https://www.frontiersin.org/articles/10.3389/fgene.2014.00430/full"
