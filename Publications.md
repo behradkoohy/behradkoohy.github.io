@@ -6,7 +6,7 @@ image: assets/images/pic04.jpeg
 nav-menu: true
 ---
 
-{% for publi in publist %}
+{% for publi in site.data.publist %}
 
 {{ publi.title }} 
 {{ publi.authors }} 
