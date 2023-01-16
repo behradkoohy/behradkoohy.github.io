@@ -8,8 +8,7 @@ nav-menu: true
 
 {% for publi in site.data.publist %}
 
-## {{ publi.title }} 
-# {{ publi.authors }} 
-{{ publi.link }}
+**{{ publi.title }}**  
+{{ publi.authors }} - {{ publi.link }}
 
 {% endfor %}
